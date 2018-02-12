@@ -24,7 +24,8 @@
       "index": true,
       "syntaxhighlighting": true,
       "epubcheck": true,
-      "show_comments": false
+      "show_comments": false,
+      "mathmlreplace": false
     },
     "mobi": {
       "toc": true,
